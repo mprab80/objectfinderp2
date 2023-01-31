@@ -1,0 +1,19 @@
+#apple{
+    width: 100%;
+    font-size: 36px;
+    margin-top: 0px;
+}
+body{
+    background-size: cover;
+    text-align: center;
+}
+#banana{
+     color:white
+}
+#cherry{
+    width:300px;
+}
+canvas{
+    border: solid;
+    border-color: white;
+}
